@@ -1,4 +1,4 @@
-<img src="qrcode_table.png" width="200" height="200">
+<img src="QRCODE.png" width="200" height="200">
 |1 | 圖片 | <img src="123.png " width="100" Height="100" />|
 |2 | 姓名 | 朱為澤 |
 |3 | 職稱 | 學生 |
