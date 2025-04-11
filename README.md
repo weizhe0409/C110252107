@@ -16,7 +16,7 @@ alt="統神端湯" width="400" height="250" border="10" /></a>
 <details>
 <summary>
 
-## 比奇堡人氣角色展：派大星專區
+## 喜歡的卡通角色：派大星
 
 </summary>
 
