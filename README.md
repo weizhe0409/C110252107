@@ -75,7 +75,7 @@ alt="統神端湯" width="400" height="250" border="10" /></a>
 <details>
 <summary>
 
-##喜歡的偶像：aespa（에스파）
+## 喜歡的偶像：aespa（에스파）
 
 </summary>
 
